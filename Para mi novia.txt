@@ -1,0 +1,12 @@
+<DOCTYPE html>
+<html lang="es">
+<head><title>Mi nugget</title>
+<meta charset="UTF-8">
+<meta name="author"content="Alejandro">
+</head>
+<body><h1>Razones por las que te amo</h1>
+<p>1 Eres muy atenta conmigo</p>
+<h2> Te mereces todo mi amor</h2>
+<p><a href="https://youtu.be/Yee6W0cRBOI">Video</a></p>
+</body>
+ </html>
